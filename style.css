@@ -1,4 +1,27 @@
-/* h1 {
-    text-align: center;
+.headers { 
     position: relative;
-} */
+    text-align:center;
+}
+
+p {
+    position: relative;
+    left: 3%;
+    width: 97%;
+}
+
+img {
+    position: relative;
+    width: 175px;
+    left: 45%;
+}
+
+#mylink {
+    position:relative;
+    left:45%;
+}
+
+#anotherlink {
+    position: relative;
+    left: 45%
+}
+
